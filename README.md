@@ -25,5 +25,8 @@ A collection of tools, libraries and tests for shader compilation. At the moment
   -> platforms: android linux windows
 
 ## profiler
+[nihui/ncnn-vulkan-compute-sample](https://github.com/nihui/ncnn-vulkan-compute-sample)<br>
+Vulkan Compute Capability Sample code Based on NCNN
+
 [google/agi](https://github.com/google/agi)<br>
 Android GPU Inspector.
