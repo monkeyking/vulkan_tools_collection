@@ -34,3 +34,7 @@ Android GPU Inspector.
 ## guide
 [ARM-software/vulkan_best_practice_for_mobile_developers](https://github.com/ARM-software/vulkan_best_practice_for_mobile_developers)<br>
 ARM Vulkan Best Practice for Mobile Developers
+
+## debug
+[baldurk/renderdoc](https://github.com/baldurk/renderdoc)<br>
+A vulkan debug tool for render or compute
