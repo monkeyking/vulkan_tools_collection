@@ -30,3 +30,7 @@ Vulkan Compute Capability Sample code Based on NCNN
 
 [google/agi](https://github.com/google/agi)<br>
 Android GPU Inspector.
+
+## guide
+[ARM-software/vulkan_best_practice_for_mobile_developers](https://github.com/ARM-software/vulkan_best_practice_for_mobile_developers)<br>
+ARM Vulkan Best Practice for Mobile Developers
