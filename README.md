@@ -20,6 +20,9 @@ A collection of tools, libraries and tests for shader compilation. At the moment
 
 [vulkan-kompute](https://github.com/EthicalML/vulkan-kompute)
 
+[Erkaman/vulkan_minimal_compute](https://github.com/Erkaman/vulkan_minimal_compute)<br>
+minimal compute demo for vulkan compute
+
 ## vulkan test
 [vulkan_test_applications](https://github.com/google/vulkan_test_applications)<br>
   -> platforms: android linux windows
