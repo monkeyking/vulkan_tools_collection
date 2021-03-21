@@ -23,6 +23,9 @@ A collection of tools, libraries and tests for shader compilation. At the moment
 [Erkaman/vulkan_minimal_compute](https://github.com/Erkaman/vulkan_minimal_compute)<br>
 minimal compute demo for vulkan compute
 
+[nihui/ncnn-android-vkpeak](https://github.com/nihui/ncnn-android-vkpeak.git)<br>
+android Tool for vulkan compute peak
+
 ## vulkan test
 [vulkan_test_applications](https://github.com/google/vulkan_test_applications)<br>
   -> platforms: android linux windows
