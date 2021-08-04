@@ -48,8 +48,12 @@ Vulkan Compute Capability Sample code Based on NCNN
 Android GPU Inspector.
 
 ## guide
+
 [ARM-software/vulkan_best_practice_for_mobile_developers](https://github.com/ARM-software/vulkan_best_practice_for_mobile_developers)<br>
 ARM Vulkan Best Practice for Mobile Developers
+
+[gl_vk_simple_interop](https://github.com/nvpro-samples/gl_vk_simple_interop)<br>
+The goal is to explain how to mix Vulkan and OpenGL in the same application.
 
 ## debug
 [baldurk/renderdoc](https://github.com/baldurk/renderdoc)<br>
