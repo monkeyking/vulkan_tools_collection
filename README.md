@@ -47,6 +47,12 @@ Vulkan Compute Capability Sample code Based on NCNN
 [google/agi](https://github.com/google/agi)<br>
 Android GPU Inspector.
 
+[mali-graphics-debugger](https://developer.arm.com/documentation/dui0482/w/live-view-and-timeline-view/mali-graphics-debugger--mgd--mode-in-live-view?lang=en)<br>
+Tool for debug mali gpu - Memory / jobs debugger
+
+[Streamline](https://developer.arm.com/tools-and-software/graphics-and-gaming/arm-mobile-studio/components/streamline-performance-analyzer)<br>
+Tool for analyze arm device performance - memory usage / execution lantency
+
 ## guide
 
 [ARM-software/vulkan_best_practice_for_mobile_developers](https://github.com/ARM-software/vulkan_best_practice_for_mobile_developers)<br>
