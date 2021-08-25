@@ -32,6 +32,9 @@ minimal compute demo for vulkan compute
 [nihui/ncnn-android-vkpeak](https://github.com/nihui/ncnn-android-vkpeak.git)<br>
 android Tool for vulkan compute peak
 
+[Camera2GLPreview](https://github.com/ochornenko/Camera2GLPreview)<br>
+camera -> compute -> display Pipline
+
 ## render
 
 [difference between DX12 vulkan](https://gpuopen.com/performance/)
