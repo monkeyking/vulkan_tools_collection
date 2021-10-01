@@ -43,7 +43,8 @@ camera -> compute -> display Pipline
 
 ## graphic
 
-[oregonstate university - SIGGRAPH2020 - Introduction to the vulkan graphics api](http://web.engr.oregonstate.edu/~mjb/vulkan/)
+[oregonstate university - SIGGRAPH2020 - Introduction to the vulkan graphics api](http://web.engr.oregonstate.edu/~mjb/vulkan/)<br>
+including some render detail, polygon list and so
 
 [difference between DX12 vulkan](https://gpuopen.com/performance/)
 
