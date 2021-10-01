@@ -4,6 +4,9 @@ A collection for vulkan tools
 ## collection
 [KhronosGroup/Vulkan-Tools](https://github.com/KhronosGroup/Vulkan-Tools)
 
+## android
+[android vulkan Native Activity Demo/with vulkan intro](https://developer.android.com/ndk/guides/graphics/getting-started)
+
 ## driver
 [mesa](https://gitlab.freedesktop.org/mesa/mesa)<br>
 AMD implement vulkan driver -> [gitlab link](https://gitlab.freedesktop.org/mesa/mesa/-/tree/master/src/amd/vulkan)
